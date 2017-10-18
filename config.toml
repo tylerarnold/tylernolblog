@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://tylerarnold.github.io/tylernolblog/"
+baseurl = "http://blog.tylernol.org"
 # themesDir = "../.."
 languageCode = "en-us"
 title = "Tyler Arnold"
