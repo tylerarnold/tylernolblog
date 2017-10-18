@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://tylerarnold.github.io/tylernolblog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://tylerarnold.github.io/tylernolblog/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://tylerarnold.github.io/tylernolblog/</loc>
     <priority>0</priority>
   </url>
   
