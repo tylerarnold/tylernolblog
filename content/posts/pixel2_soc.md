@@ -1,7 +1,7 @@
 ---
 title: "Pixel 2 ships with a disabled image processing SOC"
 date: 2017-10-19T11:05:09-05:00
-draft: true
+draft: false
 ---
 
 Kudos to Google for making progress on their own chip designs, but it is strange to ship a product with a disabled piece of hardware this significant. I suspect

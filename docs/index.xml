@@ -6,10 +6,20 @@
     <description>Recent content on Tyler Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Oct 2017 14:37:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 11:05:09 -0500</lastBuildDate>
     
 	<atom:link href="http://blog.tylernol.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pixel 2 ships with a disabled image processing SOC</title>
+      <link>http://blog.tylernol.org/posts/pixel2_soc/</link>
+      <pubDate>Thu, 19 Oct 2017 11:05:09 -0500</pubDate>
+      
+      <guid>http://blog.tylernol.org/posts/pixel2_soc/</guid>
+      <description>Kudos to Google for making progress on their own chip designs, but it is strange to ship a product with a disabled piece of hardware this significant. I suspect it will not be enabled for some time and perhaps never enabled due to some untested bug they found as they try to integrate it after it has shipped.
+Pixel Visual Core</description>
+    </item>
     
     <item>
       <title>Analogue Super NT</title>
