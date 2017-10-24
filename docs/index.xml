@@ -6,10 +6,20 @@
     <description>Recent content on Tyler Arnold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2017 08:23:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2017 14:33:49 -0500</lastBuildDate>
     
 	<atom:link href="http://blog.tylernol.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Timeframer 1.02</title>
+      <link>http://blog.tylernol.org/posts/timeframer_1_2/</link>
+      <pubDate>Tue, 24 Oct 2017 14:33:49 -0500</pubDate>
+      
+      <guid>http://blog.tylernol.org/posts/timeframer_1_2/</guid>
+      <description>Ducky   Version 1.02 of Timeframer app has been submitted for review. The primary new feature in this release is the loopback/boomerang effect that can been enabled in the edit view.
+Timeframer App</description>
+    </item>
     
     <item>
       <title>Timeframer 1.01</title>
