@@ -9,5 +9,7 @@ when I added or deleted objects from the collection. This appears to be a race/t
 collection view size from the database got the old value, rather than the new. The solution appears to be forcing a sync
 on the reader threader with realm.refresh():
 
-'let realm  = try Realm()
-realm.refresh()'
+```
+let realm  = try Realm()
+realm.refresh()
+```
